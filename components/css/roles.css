@@ -1,0 +1,13 @@
+.row1 {
+  border-bottom: 1px dashed #ccc;
+  margin-bottom: 10px;
+}
+.row1:last-child {
+  border-bottom: none;
+}
+.row1 .row2 {
+  margin-bottom: 10px;
+}
+.row1 .row2 .col3 {
+  margin: 0 5px;
+}
